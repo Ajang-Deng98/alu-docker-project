@@ -8,7 +8,9 @@ Properties
 Add new tasks
 View list of tasks
 Mark tasks as completed
+
 Tools used
+
 Docker
 CSS
 JavaScript
